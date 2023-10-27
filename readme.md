@@ -16,3 +16,18 @@ After i read yandex course i know about new work instrumens - GIT and Github
 |git push origin main			| - Send commited files to github  
 |git clone				| - create and download repository from github to local pc  
 |git remote add "link from github"	| - add link between local git and github  
+
+  
+  
+#### Mermaid examples
+
+HEAD -- это голова.
+Коммит -- это всему голова.
+Статусы файлов:
+<тут пустая строка!>
+
+```mermaid
+%% описание схемы
+```
+<и тут пустая строка!>  
+---
